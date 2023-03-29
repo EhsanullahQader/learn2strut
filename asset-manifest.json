@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/learn2strut/static/css/main.af30285d.css",
+    "main.js": "/learn2strut/static/js/main.f17ef5f3.js",
+    "static/media/strut_logo.png": "/learn2strut/static/media/strut_logo.aedd58e145c959e0a96a.png",
+    "index.html": "/learn2strut/index.html",
+    "main.af30285d.css.map": "/learn2strut/static/css/main.af30285d.css.map",
+    "main.f17ef5f3.js.map": "/learn2strut/static/js/main.f17ef5f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af30285d.css",
+    "static/js/main.f17ef5f3.js"
+  ]
+}
